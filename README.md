@@ -1,6 +1,6 @@
-#Toyshell
+# Toyshell
 
-## Project #1 : Make Your Own Shell
+### Project #1 : Make Your Own Shell
  
  - OS Environment : Linux
  - mkdir : Command to create a directory. 
