@@ -2,9 +2,8 @@
 
 ### Project #1 : Make Your Own Shell
  
- #### function
- 
- - OS Environment : Ubuntu Linux 18.04
+ ### function
+  - OS Environment : Ubuntu Linux 18.04
  - mkdir : Command to create a directory. 
  - ls : Check the contents of the directory.
  - mv : Move the file.
