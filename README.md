@@ -2,7 +2,7 @@
 
 ### Professor : JongChan Kim.
 
-### Project: Make your own shell 
+### Project : Make Your Own Shell 
 
 ### Environment : Ubuntu Linux 18.04 LTS 
 
