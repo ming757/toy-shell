@@ -2,7 +2,7 @@
 
 ### Project #1 : Make Your Own Shell
  
- ~~~ #### function
+ #### function
  
  - OS Environment : Ubuntu Linux 18.04
  - mkdir : Command to create a directory. 
