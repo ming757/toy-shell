@@ -1,10 +1,10 @@
 # toy-shell
 
-###Professor : JongChan Kim.
+### Professor : JongChan Kim.
 
-###Project: Make your own shell 
+### Project: Make your own shell 
 
-###Environment : Ubuntu Linux 18.04 LTS 
+### Environment : Ubuntu Linux 18.04 LTS 
 
 --------------------------
 
